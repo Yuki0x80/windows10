@@ -1,0 +1,9 @@
+load_settings
+test_load
+test_django_defaults
+test_attr_access
+test_reload
+test_inheritance
+assert_true
+reload
+assert_false

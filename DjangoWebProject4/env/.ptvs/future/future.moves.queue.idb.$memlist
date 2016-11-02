@@ -1,0 +1,11 @@
+True
+heapq
+absolute_import
+deque
+LifoQueue
+PriorityQueue
+Queue
+PY3
+Full
+__future_module__
+Empty

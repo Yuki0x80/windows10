@@ -1,0 +1,16 @@
+get_prefix
+prefix_attributes
+DjangoDefaults
+re
+PrefixedSettingsBase
+attr
+prefix_pattern
+AppSettingsBase
+to_underscores
+AppSettings
+with_metaclass
+callable_setting
+PrefixedSettings
+global_settings
+caps_pattern
+value

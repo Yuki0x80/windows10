@@ -1,0 +1,6 @@
+utils
+settings
+basic_tests
+prefixed_settings_tests
+switcher_tests
+callable_settings_tests

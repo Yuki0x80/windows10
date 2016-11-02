@@ -1,0 +1,15 @@
+True
+open
+os
+absolute_import
+dumb
+dbm
+__future_module__
+ndbm
+ImportError
+struct
+PY3
+error
+sys
+whichdb
+gnu

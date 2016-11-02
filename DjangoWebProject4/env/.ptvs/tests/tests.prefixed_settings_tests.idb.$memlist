@@ -1,0 +1,17 @@
+test_appsettings_explicit_name
+OtherApp
+test_mixin
+test_appsettings_classname
+OtherSettings
+MyAppSettings
+SomeSettings
+PrefixedSettingsSubclass
+Some
+AppSettings
+test_prefixedsettings_explicit_name
+PrefixedSettings
+MyApp
+test_appsettings_suffixed_classname
+test_prefixedsettings_classname
+assert_true
+test_prefixedsettings_suffixed_classname

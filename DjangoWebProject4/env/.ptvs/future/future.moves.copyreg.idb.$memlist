@@ -1,0 +1,11 @@
+True
+remove_extension
+pickle
+absolute_import
+pickle_complex
+constructor
+clear_extension_cache
+add_extension
+dispatch_table
+PY3
+__future_module__

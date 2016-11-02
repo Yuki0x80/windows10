@@ -1,0 +1,5 @@
+absolute_import
+True
+__warningregistry__
+PY3
+__future_module__

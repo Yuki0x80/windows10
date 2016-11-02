@@ -1,0 +1,12 @@
+standard_library
+PY3
+addinfo
+addbase
+True
+addclosehook
+object
+absolute_import
+addinfourl
+unicode_literals
+division
+__future_module__

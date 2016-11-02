@@ -1,0 +1,5 @@
+absolute_import
+True
+ImportError
+sys
+__future_module__

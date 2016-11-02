@@ -1,0 +1,5 @@
+test_donotcall
+test_autocall
+test_donotcall_noself
+load_settings
+assert_true

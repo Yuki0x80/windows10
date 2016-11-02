@@ -1,0 +1,12 @@
+True
+exit
+absolute_import
+start_new_thread
+allocate_lock
+stack_size
+__future_module__
+LockType
+PY3
+get_ident
+interrupt_main
+error

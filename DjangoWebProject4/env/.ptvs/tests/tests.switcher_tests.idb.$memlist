@@ -1,0 +1,14 @@
+assert_raises
+test_simple_checks
+test_hostname_nomatch
+NoMatchingSettings
+socket
+gethostname
+unpatch_hostname
+patch_hostname
+load_settings
+assert_true
+patched_gethostname
+with_setup
+test_simple_callable_checks
+test_hostname_switch
